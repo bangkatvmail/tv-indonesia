@@ -1,5 +1,25 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",1 (XXX)
+ https://t21.link/v/yx93x2w4q9l
+
+#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",2 (XXX)
+http://v2.myowntv.org/content/35617/index.m3u8?seg-uhd-club
+
+#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",3 (XXX)
+http://v2.myowntv.org/content/35608/index.m3u8?seg-uhd-club
+
+#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",4 (XXX)
+http://v2.myowntv.org/content/35606/index.m3u8?seg-uhd-club
+
+#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",5 (XXX)
+http://v2.myowntv.org/content/35601/index.m3u8?seg-uhd-club
+
+#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",6 (XXX)
+http://v2.myowntv.org/content/35600/index.m3u8?seg-uhd-clUb
+
+
 #EXTINF:-1 tvg-logo="http://files.softicons.com/download/web-icons/asia-flags-icons-by-studiotwentyeight/png/256/North-Korea.png" group-title="LABEL",~ North Korea TV ~
 http://www.lengua.com/anthems/NorthKorea.mp3
 
@@ -1189,24 +1209,6 @@ https://yviistreamer.kernel.online/hls/yviitv.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUCVVx8.png" group-title="ITALY",Zerouno TV Music
 https://dcunilive55-lh.akamaihd.net/i/dclive_1@761470/master.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",1 (XXX)
-http://v2.myowntv.org/content/35618/index.m3u8?seg-uhd-club
-
-#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",2 (XXX)
-http://v2.myowntv.org/content/35617/index.m3u8?seg-uhd-club
-
-#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",3 (XXX)
-http://v2.myowntv.org/content/35608/index.m3u8?seg-uhd-club
-
-#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",4 (XXX)
-http://v2.myowntv.org/content/35606/index.m3u8?seg-uhd-club
-
-#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",5 (XXX)
-http://v2.myowntv.org/content/35601/index.m3u8?seg-uhd-club
-
-#EXTINF:-1 tvg-logo="https://moddroid.com/wp-content/uploads/2019/06/iptv-pro-moddroid.png" group-title="FILM",6 (XXX)
-http://v2.myowntv.org/content/35600/index.m3u8?seg-uhd-clUb
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
