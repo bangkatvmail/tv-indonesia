@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1,A
+http://v2.myowntv.org/content/35618/index.m3u8?seg-uhd-club
+#EXTINF:-1,B
+http://v2.myowntv.org/content/35617/index.m3u8?seg-uhd-club
+#EXTINF:-1,C
+http://v2.myowntv.org/content/35608/index.m3u8?seg-uhd-club
+#EXTINF:-1,D
+http://v2.myowntv.org/content/35606/index.m3u8?seg-uhd-club
+#EXTINF:-1,E
+http://v2.myowntv.org/content/35601/index.m3u8?seg-uhd-club
+#EXTINF:-1,F
+http://v2.myowntv.org/content/35600/index.m3u8?seg-uhd-clUb
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
