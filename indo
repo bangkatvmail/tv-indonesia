@@ -1,16 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1,A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://v2.myowntv.org/content/35618/index.m3u8?seg-uhd-club
-#EXTINF:-1,B
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://v2.myowntv.org/content/35617/index.m3u8?seg-uhd-club
-#EXTINF:-1,C
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://v2.myowntv.org/content/35608/index.m3u8?seg-uhd-club
-#EXTINF:-1,D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://v2.myowntv.org/content/35606/index.m3u8?seg-uhd-club
-#EXTINF:-1,E
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://v2.myowntv.org/content/35601/index.m3u8?seg-uhd-club
-#EXTINF:-1,F
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://v2.myowntv.org/content/35600/index.m3u8?seg-uhd-clUb
 
 
