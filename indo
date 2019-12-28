@@ -3,11 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar (XXX)
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wsm5MXS.png" group-title="INDONESIA",MNC Sports
-http://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="INDONESIA",MNC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPm5ytF.png" group-title="INDONESIA",MNC TV (XXX)
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-3)
